@@ -73,6 +73,7 @@ class RootCommand(Feature):
             f"`Python {sys.version}` on `{sys.platform}`".replace("\n", ""),
             f"Module was loaded <t:{self.load_time.timestamp():.0f}:R>, "
             f"cog was loaded <t:{self.start_time.timestamp():.0f}:R>.",
+            "<:badge1D_Vbotdev:1028831005647310900> developed by "axx#1337,
             ""
         ]
 
